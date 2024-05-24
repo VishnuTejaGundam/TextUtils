@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "The Telegraph",
+      "title": "JK Rowling's 'come and get me' retort to Hate Crime Act is direct challenge to Yousaf - The Telegraph",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDQvMDEvamstcm93bGluZy1oYXRlLWNyaW1lLWFjdC1odW16YS15b3VzYWYtc2NvdGxhbmQtd29tZW4tdHJhbnMv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-01T18:14:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "JK Rowling in ‘arrest me’ challenge over Scottish hate crime law",
+      "description": "The Harry Potter author described several transgender women as men in a series of social media posts.",
+      "url": "https://www.bbc.co.uk/news/articles/c51j64lk2l8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1c36/live/cb52d190-f026-11ee-8232-174e38a036b6.jpg",
+      "publishedAt": "2024-04-01T18:07:20.7646884Z",
+      "content": "The maximum penalty under the new act in Scotland is a jail sentence of seven years.\r\nA person commits an offence if they communicate material, or behave in a manner, \"that a reasonable person would … [+559 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Julia Reinstein",
+      "title": "Alex Murdaugh sentenced to 40 more years in prison for financial crimes",
+      "description": "Murdaugh is already serving two life sentences for murdering his wife and son.",
+      "url": "https://abcnews.go.com/US/alex-murdaugh-sentenced-40-years-prison-financial-crimes/story?id=108706639",
+      "urlToImage": "https://i.abcnewsfe.com/a/097ae8ed-af43-4c59-9ae8-f496310ff149/murdaugh-2023-file-gty-ml-240401_1711985368161_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-01T15:53:00Z",
+      "content": "Alex Murdaugh, who is already serving two life sentences for the murder of his wife and child, was sentenced Monday to 40 more years in prison for financial crimes, according to Charleston, South Car… [+3324 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Ellie Cook",
+      "title": "Crimea Video Shows Russian Tanks Brought in on Trains",
+      "description": "Russia has used Crimea, the annexed peninsula it has controlled since 2014, to launch attacks on mainland Ukraine and supply its frontline troops.",
+      "url": "https://www.newsweek.com/crimea-video-russia-tanks-train-transport-yevpatoria-ukraine-1885550",
+      "urlToImage": "https://d.newsweek.com/en/full/2370866/russian-tank.jpg",
+      "publishedAt": "2024-04-01T14:21:05Z",
+      "content": "Russian forces are allegedly transporting replacement tanks in Crimea by trains, new footage appears to show, ahead of the warmer spring and summer months that Ukraine has warned will likely herald f… [+4168 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
